@@ -1,0 +1,2 @@
+1、双击运行..\HsClient 目录下的 安装华表.bat
+2、双击运行..\HsClient\Trade\目录下的统一注册扫描控件向导 V1.0.bat 文件和 ocx.exe 文件。
